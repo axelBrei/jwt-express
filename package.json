@@ -1,0 +1,15 @@
+{
+  "name": "jwt_middleware",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.8.32",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
